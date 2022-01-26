@@ -1,6 +1,8 @@
-# SwiftUI_ContactCard
+# SwiftUI ContactCard
 Practicing SwiftUI by building a single view contact card
 
 This contact card is based off of the tutorial project provided by Angela Yu's iOS & Swift - The Complete iOS App Development Bootcamp on Udemy.
+
+Below is a screenshot with my :mailbox_with_mail: and :iphone:
 
 ![Preview](/DCCard/Assets.xcassets/SimulatorPreviewShot.png)
